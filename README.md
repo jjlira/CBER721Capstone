@@ -1,1 +1,1 @@
-# CBER721Capstone Project CBER721 IDS using Machine Learning
+# CBER721 Capstone Project "IDS using Machine Learning"
